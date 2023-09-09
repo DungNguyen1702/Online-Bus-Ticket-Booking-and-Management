@@ -18,8 +18,8 @@ public class JDBCUtil {
 //		String user = "DESKTOP-98HRCRQ\\OS";
 	
 		//Lap anh Dũng
-		String connectionURL = "jdbc:sqlserver://LAPTOP-D43G7L68\\SQLEXPRESS:1433;encrypt=true;databaseName=PBL3;integratedSecurity=true;trustServerCertificate=true;";
-		String user = "LAPTOP-D43G7L68\\PC";
+		String connectionURL = "jdbc:sqlserver://DESKTOP-COK44VI\\SQLEXPRESS:1433;encrypt=true;databaseName=PBL3;integratedSecurity=true;trustServerCertificate=true;";
+		String user = "DESKTOP-COK44VI\\PC";
 		
 		String password = "";
 		try {
